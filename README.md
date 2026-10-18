@@ -33,7 +33,13 @@ The goal was to practice JavaScript fundamentals while creating an interactive e
 
 ## 🚀 Getting Started
 
-1. Clone this repository.
+You can play **Jokenpo** directly in your browser:
+
+👉 [https://kaymersd.github.io/Jokenpo/](https://kaymersd.github.io/Jokenpo/)
+
+### Run Locally
+
+1. Clone or download this repository.
 2. Open the project folder in your code editor.
 3. Open `index.html` in your browser.
 4. Start playing!
